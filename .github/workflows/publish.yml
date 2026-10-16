@@ -1,0 +1,39 @@
+name: Daily Fishing Article Publisher
+
+on:
+  schedule:
+    # 每天 14:00 UTC = 北京时间 22:00（比露营站晚 1 小时，错开跑，互不抢资源）
+    - cron: "0 14 * * *"
+  workflow_dispatch: {}   # 允许在 Actions 页面手动点一次测试
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate and publish article
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+        run: python generate.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "auto: publish daily fishing article" || echo "no changes"
+          git push
