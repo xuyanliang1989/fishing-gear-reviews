@@ -13,3 +13,5 @@ No-nonsense fishing gear reviews for US anglers. We compare real rods, reels, fi
   <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+
+[About & Editorial Policy](/about.html)
