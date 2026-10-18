@@ -4,5 +4,6 @@ No-nonsense fishing gear reviews for US anglers. We compare real rods, reels, fi
 
 **Visit the site:** https://xuyanliang1989.github.io/fishing-gear-reviews/
 
-Part of a small review network:/n- [Camping Gear Reviews](https://xuyanliang1989.github.io/)
+Part of a small review network:
+- [Camping Gear Reviews](https://xuyanliang1989.github.io/)
 - [Portable Power Station Reviews](https://xuyanliang1989.github.io/portable-power-reviews/)
