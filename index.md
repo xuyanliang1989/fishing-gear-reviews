@@ -15,3 +15,8 @@ No-nonsense fishing gear reviews for US anglers. We compare real rods, reels, fi
 </ul>
 
 [About & Editorial Policy](/about.html)
+
+## Our Other Sites
+
+- [Camping Gear Reviews](https://xuyanliang1989.github.io/)
+- [Portable Power Station Reviews](https://xuyanliang1989.github.io/portable-power-reviews/)
