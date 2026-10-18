@@ -5,6 +5,9 @@ title: "Best Baitcasting Reels Under $100"
 {% raw %}
 # Best Baitcasting Reels Under $100
 
+> *Disclosure: Some links in this article may be affiliate links. If you buy through them, we may earn a commission at no extra cost to you. This never influences our recommendations or rankings.*
+
+
 You've been there. You finally get a good hookset on a five-pounder, the fish turns, and your thumb hits the spool just as the reel makes a sound it definitely shouldn't make — a dry grind, a hitch, a backlash that eats your thumb and your patience in one motion. Cheap baitcasters have a reputation for exactly this: bearings that rough up after a season, drags that stutter instead of slip smooth, and brakes that either lock the spool down or do nothing at all. But here's the thing — the sub-$100 category has gotten genuinely good over the last few years. You can now buy a reel with a real braking system, a decent drag, and a frame that survives a season of bank fishing without spending a car payment. This guide covers the ones actually worth your money.
 
 ## What to look for
@@ -130,13 +133,13 @@ You've been there. You finally get a good hookset on a five-pounder, the fish tu
 
 | Product | Price | Best For | Key Strength |
 |---|---|---|---|
-| Shimano SLX A {{PRODUCT_LINK}} | $99.99 | Premium feel at the ceiling | SVS Infinity brakes, aluminum frame |
-| Daiwa Fuego CT {{PRODUCT_LINK}} | $79.99–$99.99 | Power fishing | Smooth UTD drag, Magforce brakes |
-| Abu Garcia Black Max {{PRODUCT_LINK}} | $49.99–$59.99 | Beginners and backups | Affordable, forgiving MagTrax brakes |
-| Lew's American Hero Speed Spool {{PRODUCT_LINK}} | $79.99–$99.99 | Moving baits | Fast retrieve, external magnetic brake |
-| Pflueger President XT Baitcast {{PRODUCT_LINK}} | $89.99–$99.99 | One-reel versatility | Dual-brake tuning range |
-| Bass Pro Shops Pro Qualifier 2 {{PRODUCT_LINK}} | $79.99–$99.99 | Durability and support | Aluminum frame, easy warranty |
-| 13 Fishing Origin C {{PRODUCT_LINK}} | $59.99–$79.99 | Finesse and light lures | Light, palmable, casts light baits |
+| [Shimano SLX A](https://www.amazon.com/s?k=Shimano%20SLX%20A) | $99.99 | Premium feel at the ceiling | SVS Infinity brakes, aluminum frame |
+| [Daiwa Fuego CT](https://www.amazon.com/s?k=Daiwa%20Fuego%20CT) | $79.99–$99.99 | Power fishing | Smooth UTD drag, Magforce brakes |
+| [Abu Garcia Black Max](https://www.amazon.com/s?k=Abu%20Garcia%20Black%20Max) | $49.99–$59.99 | Beginners and backups | Affordable, forgiving MagTrax brakes |
+| [Lew's American Hero Speed Spool](https://www.amazon.com/s?k=Lew%27s%20American%20Hero%20Speed%20Spool) | $79.99–$99.99 | Moving baits | Fast retrieve, external magnetic brake |
+| [Pflueger President XT Baitcast](https://www.amazon.com/s?k=Pflueger%20President%20XT%20Baitcast) | $89.99–$99.99 | One-reel versatility | Dual-brake tuning range |
+| [Bass Pro Shops Pro Qualifier 2](https://www.amazon.com/s?k=Bass%20Pro%20Shops%20Pro%20Qualifier%202) | $79.99–$99.99 | Durability and support | Aluminum frame, easy warranty |
+| [13 Fishing Origin C](https://www.amazon.com/s?k=13%20Fishing%20Origin%20C) | $59.99–$79.99 | Finesse and light lures | Light, palmable, casts light baits |
 
 ## Final Verdict
 
@@ -160,4 +163,8 @@ Yes, but rinse it with fresh water after every trip and re-oil the bearings, and
 
 **Why does my baitcaster backlash even with the brakes turned up?**
 Usually it's spool tension, not the brakes. Set the spool tension so a lure falls slowly and the spool stops when the lure hits the ground, then use the brake dial to fine-tune for wind and lure weight. Also check that you're not overfilling the spool — a spool filled to the brim backlashes far more easily than one filled to about 1/8 inch from the rim.
+
+---
+
+> *Disclosure: Some links in this article may be affiliate links. If you buy through them, we may earn a commission at no extra cost to you. This never influences our recommendations or rankings.*
 {% endraw %}
