@@ -185,8 +185,8 @@ If you fish often, clean and re-lube the reel at least once a season, and after 
 
 **Related reading:**
 
-- [Best Fishing Rods for Beginners in 2026](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/18/2026-10-18-best-fishing-rods-for-beginners-in-2026.html)
-- [Best Spinning Reels Under $200](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/16/2026-10-16-best-spinning-reels-under-200.html)
-- [Best Baitcasting Reels Under $100](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/17/2026-10-17-best-baitcasting-reels-under-100.html)
+- [Best Fishing Rods for Beginners in 2026](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/18/best-fishing-rods-for-beginners-in-2026.html)
+- [Best Spinning Reels Under $200](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/16/best-spinning-reels-under-200.html)
+- [Best Baitcasting Reels Under $100](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/17/best-baitcasting-reels-under-100.html)
 
 *Also explore our other gear guides: [Camping Gear Reviews](https://xuyanliang1989.github.io/) · [Portable Power Station Reviews](https://xuyanliang1989.github.io/portable-power-reviews/)*
