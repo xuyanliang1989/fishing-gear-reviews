@@ -188,8 +188,8 @@ Match the reel size to the rod's line and lure ratings — a 2500-size spinning 
 
 **Related reading:**
 
-- [Best Spinning Reels Under $100](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/16/2026-10-16-best-spinning-reels-under-100.html)
-- [Best Baitcasting Reels Under $100](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/17/2026-10-17-best-baitcasting-reels-under-100.html)
-- [Best Ultralight Spinning Reels for Trout](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/19/2026-10-19-best-ultralight-spinning-reels-for-trout.html)
+- [Best Spinning Reels Under $100](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/16/best-spinning-reels-under-100.html)
+- [Best Baitcasting Reels Under $100](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/17/best-baitcasting-reels-under-100.html)
+- [Best Ultralight Spinning Reels for Trout](https://xuyanliang1989.github.io/fishing-gear-reviews/2026/10/19/best-ultralight-spinning-reels-for-trout.html)
 
 *Also explore our other gear guides: [Camping Gear Reviews](https://xuyanliang1989.github.io/) · [Portable Power Station Reviews](https://xuyanliang1989.github.io/portable-power-reviews/)*
